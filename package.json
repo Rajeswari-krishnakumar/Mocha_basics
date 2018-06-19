@@ -1,0 +1,22 @@
+{
+  "name": "test_tutorial",
+  "version": "1.0.0",
+  "description": "Testing framework Mocha basic examples",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajeswari-krishnakumar/Mocha_basics.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Rajeswari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajeswari-krishnakumar/Mocha_basics/issues"
+  },
+  "homepage": "https://github.com/Rajeswari-krishnakumar/Mocha_basics#readme"
+}
